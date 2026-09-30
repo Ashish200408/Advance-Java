@@ -1,0 +1,15 @@
+127.0.0.1 - - [14/Aug/2026:13:01:30 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:01:32 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5463
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:01:32 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:01:36 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5695
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:01:37 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5463
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:08:16 +0530] "GET /Demojsptags/result.jsp HTTP/1.1" 500 3331
+127.0.0.1 - - [14/Aug/2026:13:21:31 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:21:31 +0530] "GET /Demojsptags/result.jsp HTTP/1.1" 500 3331
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:24:57 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5448
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:24:59 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5680
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:24:59 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5680
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:25:00 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5680
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:25:43 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 500 5448
+127.0.0.1 - - [14/Aug/2026:13:29:12 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [14/Aug/2026:13:29:15 +0530] "GET /Demojsptags/index.jsp HTTP/1.1" 200 285
